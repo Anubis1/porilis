@@ -1,4 +1,4 @@
-<?php
+78<?php
 
 /* @var $this \yii\web\View */
 /* @var $content string */
@@ -77,3 +77,4 @@ AppAsset::register($this);
 </body>
 </html>
 <?php $this->endPage() ?>
+                                    
